@@ -14,11 +14,11 @@ Instructions to this assignment can be found [here](https://it3049c.github.io/Ma
 2. Added Javascript script
 2. Added imgae to resources/images/
 3. Added Sections
-  i.  Personal background with <ul>
-  ii. Work and Development Experience with <ol>
-  iii.Programming Languages with <ol>
-  iv. Achievements 
-   v. Favorite Games with ol
+   *Personal background with <ul>
+   *Work and Development Experience with <ol>
+   *Programming Languages with <ol>
+   *Achievements 
+   *Favorite Games with ol
 4. Updated bootstrap and resources/styles/styles.css
 5. Installed npm
 6. Frequent GitHub commits 
