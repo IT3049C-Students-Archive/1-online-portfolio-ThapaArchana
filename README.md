@@ -12,18 +12,19 @@ Instructions to this assignment can be found [here](https://it3049c.github.io/Ma
 ## Self-Reflection: (20/20)
 1. Added css link
 2. Added Javascript script
-2. Added imgae to resources/images/
-3. Added Sections
-   *Personal background with <ul>
-   *Work and Development Experience with <ol>
-   *Programming Languages with <ol>
-   *Achievements 
-   *Favorite Games with ol
-4. Updated bootstrap and resources/styles/styles.css
-5. Installed npm
-6. Frequent GitHub commits 
-7. submittedPull request 
-8. Added CSS
+3. Added imgae to resources/images/
+4. Installed npm
+5. Frequent GitHub commits 
+6. submittedPull request 
+7. Added CSS
+8. Used bootstrap classes and updated resources/styles/styles.css
+9. Added Sections
+   a.Personal background with <ul>
+   b.Work and Development Experience with <ol>
+   c.Programming Languages with <ol>
+   d.Achievements 
+   e.Favorite Games with <ol>
+
 
 ### How long it took me to finish this?
 5 hours
