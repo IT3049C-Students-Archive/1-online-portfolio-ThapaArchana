@@ -9,9 +9,22 @@ Instructions to this assignment can be found [here](https://it3049c.github.io/Ma
 - [ ] fill out the self evaluation and Reflection
 - [ ] submit the repository and the hosted github pages to Canvas
 
-## Self-Reflection:
-
+## Self-Reflection: (20/20)
+1. Added css link
+2. Added Javascript script
+2. Added imgae to resources/images/
+3. Added Sections
+  i.  Personal background with <ul>
+  ii. Work and Development Experience with <ol>
+  iii.Programming Languages with <ol>
+  iv. Achievements 
+   v. Favorite Games with ol
+4. Updated bootstrap and resources/styles/styles.css
+5. Installed npm
+6. Frequent GitHub commits 
+7. submittedPull request 
+8. Added CSS
 
 ### How long it took me to finish this?
-
+5 hours
 -----------------------
