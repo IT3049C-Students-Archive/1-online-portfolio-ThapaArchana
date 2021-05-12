@@ -7,6 +7,9 @@
  #personalBackground,#myphoto {
   background-color: #ffc966;
  }
+ #personalBackground {
+  margin-top: 50px;
+ }
  #achievements,#games{
   background-color: #ffd27f;
  }
