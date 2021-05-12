@@ -20,3 +20,12 @@
   background-color:#ffc966;
  }
 
+ h1 {
+  text-align: center;
+  padding: 1%;
+  margin-top: 1%;
+  margin-bottom: 5%;
+  background-color: #cccccc;
+  border-radius: 13px;
+  letter-spacing: 8px; 
+}
