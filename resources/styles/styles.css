@@ -10,12 +10,15 @@
  #personalBackground {
   margin-top: 50px;
  }
+ 
  #achievements,#games{
   background-color: #ffd27f;
  }
+
  #games{
   background-color: #f8d79b;
  }
+
  .container{
   background-color:#ffc966;
  }
